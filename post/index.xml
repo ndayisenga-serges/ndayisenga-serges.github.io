@@ -5,12 +5,20 @@
     <link>https://ndayisenga-serges.github.io/post/</link>
       <atom:link href="https://ndayisenga-serges.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 22:42:35 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Dec 2020 21:24:34 +0300</lastBuildDate>
     <image>
       <url>https://ndayisenga-serges.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://ndayisenga-serges.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Link</title>
+      <link>https://ndayisenga-serges.github.io/post/link/</link>
+      <pubDate>Tue, 15 Dec 2020 21:24:34 +0300</pubDate>
+      <guid>https://ndayisenga-serges.github.io/post/link/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A MOSCOU</title>
