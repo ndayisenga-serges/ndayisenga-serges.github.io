@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Academic</title>
+    <link>https://ndayisenga-serges.github.io/ru/post/</link>
+      <atom:link href="https://ndayisenga-serges.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Wed, 16 Dec 2020 00:41:13 +0300</lastBuildDate>
+    <image>
+      <url>https://ndayisenga-serges.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://ndayisenga-serges.github.io/ru/post/</link>
+    </image>
+    
+    <item>
+      <title>Cours</title>
+      <link>https://ndayisenga-serges.github.io/ru/post/cours/</link>
+      <pubDate>Wed, 16 Dec 2020 00:41:13 +0300</pubDate>
+      <guid>https://ndayisenga-serges.github.io/ru/post/cours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ссылки на научные и библиометрические ресурсы</title>
+      <link>https://ndayisenga-serges.github.io/ru/post/link/</link>
+      <pubDate>Tue, 15 Dec 2020 21:24:34 +0300</pubDate>
+      <guid>https://ndayisenga-serges.github.io/ru/post/link/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://elibrary.ru/defaultx.asp?&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLibrary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://orcid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mendeley.com/?interaction_required=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mendeley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ResearchGate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.academia.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academia.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A MOSCOU</title>
+      <link>https://ndayisenga-serges.github.io/ru/post/unersity/</link>
+      <pubDate>Sun, 13 Dec 2020 22:42:35 +0300</pubDate>
+      <guid>https://ndayisenga-serges.github.io/ru/post/unersity/</guid>
+      <description>&lt;p&gt;RUDN C&amp;rsquo;est l&amp;rsquo;universite qui se situe à Moscou et j&amp;rsquo;etudie à cet universite&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Animal</title>
+      <link>https://ndayisenga-serges.github.io/ru/post/animal/</link>
+      <pubDate>Sun, 13 Dec 2020 22:26:21 +0300</pubDate>
+      <guid>https://ndayisenga-serges.github.io/ru/post/animal/</guid>
+      <description>&lt;p&gt;Les animaux constituent une grande importante dans la vie de l&amp;rsquo;homme en particulier et dans l&amp;rsquo;envirronnement en generale&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
