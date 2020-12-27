@@ -163,6 +163,21 @@
   </url>
   
   <url>
+    <loc>https://ndayisenga-serges.github.io/author/admin/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ndayisenga-serges.github.io/ru/author/ndayisenga-serges/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ndayisenga-serges.github.io/author/admin/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ndayisenga-serges.github.io/authors/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -180,21 +195,6 @@
   <url>
     <loc>https://ndayisenga-serges.github.io/en/publication/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ndayisenga-serges.github.io/author/ndayisenga-serges/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ndayisenga-serges.github.io/ru/author/ndayisenga-serges/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ndayisenga-serges.github.io/author/ndayisenga-serges/"
-                />
   </url>
   
   <url>
