@@ -18,21 +18,6 @@
   </url>
   
   <url>
-    <loc>https://ndayisenga-serges.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ndayisenga-serges.github.io/ru/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ndayisenga-serges.github.io/talk/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ndayisenga-serges.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -44,6 +29,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ndayisenga-serges.github.io/talk/example/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ndayisenga-serges.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ndayisenga-serges.github.io/ru/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ndayisenga-serges.github.io/talk/"
                 />
   </url>
   
