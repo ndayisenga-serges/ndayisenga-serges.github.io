@@ -48,21 +48,6 @@
   </url>
   
   <url>
-    <loc>https://ndayisenga-serges.github.io/ru/post/cours/</loc>
-    <lastmod>2020-12-16T00:41:13+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ndayisenga-serges.github.io/post/cours/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ndayisenga-serges.github.io/ru/post/cours/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ndayisenga-serges.github.io/ru/post/</loc>
     <lastmod>2020-12-16T00:41:13+03:00</lastmod>
     <xhtml:link
@@ -74,6 +59,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://ndayisenga-serges.github.io/ru/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ndayisenga-serges.github.io/ru/post/cours/</loc>
+    <lastmod>2020-12-16T00:41:13+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ndayisenga-serges.github.io/post/cours/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ndayisenga-serges.github.io/ru/post/cours/"
                 />
   </url>
   
@@ -168,21 +168,6 @@
   </url>
   
   <url>
-    <loc>https://ndayisenga-serges.github.io/ru/project/mon-projet/</loc>
-    <lastmod>2020-12-13T22:55:38+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ndayisenga-serges.github.io/project/mon-projet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ndayisenga-serges.github.io/ru/project/mon-projet/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ndayisenga-serges.github.io/ru/project/</loc>
     <lastmod>2020-12-13T22:55:38+03:00</lastmod>
     <xhtml:link
@@ -194,6 +179,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://ndayisenga-serges.github.io/ru/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ndayisenga-serges.github.io/ru/project/mon-projet/</loc>
+    <lastmod>2020-12-13T22:55:38+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ndayisenga-serges.github.io/project/mon-projet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ndayisenga-serges.github.io/ru/project/mon-projet/"
                 />
   </url>
   
@@ -273,21 +273,6 @@
   </url>
   
   <url>
-    <loc>https://ndayisenga-serges.github.io/ru/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ndayisenga-serges.github.io/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ndayisenga-serges.github.io/ru/project/example/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ndayisenga-serges.github.io/ru/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -299,6 +284,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://ndayisenga-serges.github.io/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ndayisenga-serges.github.io/ru/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ndayisenga-serges.github.io/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ndayisenga-serges.github.io/ru/project/example/"
                 />
   </url>
   
@@ -348,21 +348,6 @@
   </url>
   
   <url>
-    <loc>https://ndayisenga-serges.github.io/ru/author/ndayisenga-serges/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ndayisenga-serges.github.io/author/ndayisenga-serges/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://ndayisenga-serges.github.io/ru/author/ndayisenga-serges/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ndayisenga-serges.github.io/ru/author/robert-ford/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -374,6 +359,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://ndayisenga-serges.github.io/ru/author/robert-ford/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ndayisenga-serges.github.io/ru/author/%D0%BD%D0%B4%D0%B0%D0%B8%D0%B8%D1%81%D0%B5%D0%BD%D0%B3%D0%B0-%D1%81%D0%B5%D1%80%D0%B6/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ndayisenga-serges.github.io/author/ndayisenga-serges/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ndayisenga-serges.github.io/ru/author/%D0%BD%D0%B4%D0%B0%D0%B8%D0%B8%D1%81%D0%B5%D0%BD%D0%B3%D0%B0-%D1%81%D0%B5%D1%80%D0%B6/"
                 />
   </url>
   
